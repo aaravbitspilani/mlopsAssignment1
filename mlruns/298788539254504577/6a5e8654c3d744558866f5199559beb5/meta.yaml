@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/agotra/Downloads/mlopsAssignment1/mlruns/298788539254504577/6a5e8654c3d744558866f5199559beb5/artifacts
+end_time: 1754317627462
+entry_point_name: ''
+experiment_id: '298788539254504577'
+lifecycle_stage: active
+run_id: 6a5e8654c3d744558866f5199559beb5
+run_name: lyrical-fawn-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754317625659
+status: 3
+tags: []
+user_id: agotra

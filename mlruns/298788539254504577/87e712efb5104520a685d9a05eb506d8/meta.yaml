@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/agotra/Downloads/mlopsAssignment1/mlruns/298788539254504577/87e712efb5104520a685d9a05eb506d8/artifacts
+end_time: 1754317387138
+entry_point_name: ''
+experiment_id: '298788539254504577'
+lifecycle_stage: active
+run_id: 87e712efb5104520a685d9a05eb506d8
+run_name: vaunted-asp-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754317385327
+status: 3
+tags: []
+user_id: agotra

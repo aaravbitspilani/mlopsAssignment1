@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/agotra/Downloads/mlopsAssignment1/mlruns/298788539254504577/be56659388d64713bd8a49282a105f12/artifacts
+end_time: 1754317661022
+entry_point_name: ''
+experiment_id: '298788539254504577'
+lifecycle_stage: active
+run_id: be56659388d64713bd8a49282a105f12
+run_name: ambitious-mouse-434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754317659237
+status: 3
+tags: []
+user_id: agotra

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/agotra/Downloads/mlopsAssignment1/mlruns/298788539254504577/5a7f021254034a0c8e1ab9e0bca49c3d/artifacts
+end_time: 1754317385324
+entry_point_name: ''
+experiment_id: '298788539254504577'
+lifecycle_stage: active
+run_id: 5a7f021254034a0c8e1ab9e0bca49c3d
+run_name: grandiose-doe-916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754317383251
+status: 3
+tags: []
+user_id: agotra

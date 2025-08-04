@@ -1,0 +1,22 @@
+artifact_path: file:///Users/agotra/Downloads/mlopsAssignment1/mlruns/298788539254504577/models/m-a06107ed25a747a4a691461a783f25a4/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.0
+mlflow_version: 3.1.4
+model_id: m-a06107ed25a747a4a691461a783f25a4
+model_size_bytes: 2287031
+model_uuid: m-a06107ed25a747a4a691461a783f25a4
+prompts: null
+run_id: be56659388d64713bd8a49282a105f12
+utc_time_created: '2025-08-04 14:27:39.395881'

@@ -1,0 +1,10 @@
+artifact_location: file:///Users/agotra/Downloads/mlopsAssignment1/mlruns/298788539254504577/models/m-561591b377de4972a08f369063be0420/artifacts
+creation_timestamp: 1754316693460
+experiment_id: '298788539254504577'
+last_updated_timestamp: 1754316695837
+model_id: m-561591b377de4972a08f369063be0420
+model_type: null
+name: model
+source_run_id: c0ac681b37254d22b57fbb3ce2681d56
+status: 2
+status_message: null

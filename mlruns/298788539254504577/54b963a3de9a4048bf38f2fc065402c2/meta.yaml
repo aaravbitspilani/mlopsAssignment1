@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/agotra/Downloads/mlopsAssignment1/mlruns/298788539254504577/54b963a3de9a4048bf38f2fc065402c2/artifacts
+end_time: 1754316697603
+entry_point_name: ''
+experiment_id: '298788539254504577'
+lifecycle_stage: active
+run_id: 54b963a3de9a4048bf38f2fc065402c2
+run_name: zealous-dolphin-256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754316695843
+status: 3
+tags: []
+user_id: agotra

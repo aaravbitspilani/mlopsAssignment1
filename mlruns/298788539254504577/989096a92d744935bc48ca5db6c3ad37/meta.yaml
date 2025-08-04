@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/agotra/Downloads/mlopsAssignment1/mlruns/298788539254504577/989096a92d744935bc48ca5db6c3ad37/artifacts
+end_time: 1754317625656
+entry_point_name: ''
+experiment_id: '298788539254504577'
+lifecycle_stage: active
+run_id: 989096a92d744935bc48ca5db6c3ad37
+run_name: grandiose-pig-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754317623530
+status: 3
+tags: []
+user_id: agotra

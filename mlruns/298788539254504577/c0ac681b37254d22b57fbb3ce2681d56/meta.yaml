@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/agotra/Downloads/mlopsAssignment1/mlruns/298788539254504577/c0ac681b37254d22b57fbb3ce2681d56/artifacts
+end_time: 1754316695840
+entry_point_name: ''
+experiment_id: '298788539254504577'
+lifecycle_stage: active
+run_id: c0ac681b37254d22b57fbb3ce2681d56
+run_name: burly-bat-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754316693433
+status: 3
+tags: []
+user_id: agotra

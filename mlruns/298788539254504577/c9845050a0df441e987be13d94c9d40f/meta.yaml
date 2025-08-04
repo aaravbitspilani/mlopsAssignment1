@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/agotra/Downloads/mlopsAssignment1/mlruns/298788539254504577/c9845050a0df441e987be13d94c9d40f/artifacts
+end_time: 1754317505083
+entry_point_name: ''
+experiment_id: '298788539254504577'
+lifecycle_stage: active
+run_id: c9845050a0df441e987be13d94c9d40f
+run_name: trusting-bear-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754317502547
+status: 3
+tags: []
+user_id: agotra
